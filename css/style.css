@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(/img/rabstol_net_star_wars_04_1440x900.jpg);
+    background-repeat: no-repeat;
+    background-color: #000000;
+   
+}
+
+.container {
+    max-width: 700px;
+    
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #ffbe00;
+}
+
+.character-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 45px;
+    background-color: #f9f9f9;
+}
+
+.character-card img {
+    max-width: 100%;
+    border-radius: 5px;
+}
